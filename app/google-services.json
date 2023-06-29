@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "15230346581",
+    "project_id": "login-register-firebase-350e0",
+    "storage_bucket": "login-register-firebase-350e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15230346581:android:99f1e565047ae3d21f3bdc",
+        "android_client_info": {
+          "package_name": "com.example.sejo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15230346581-oeadsqghr7ecs84ossjnv9jcvm8oadbv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsTMitszohIDHiNuF1M-FaTx-BF68mbtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15230346581-oeadsqghr7ecs84ossjnv9jcvm8oadbv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

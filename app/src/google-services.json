@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "163854431037",
+    "firebase_url": "https://sejo-41297-default-rtdb.firebaseio.com",
+    "project_id": "sejo-41297",
+    "storage_bucket": "sejo-41297.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163854431037:android:985946ff52b9794d158b54",
+        "android_client_info": {
+          "package_name": "com.example.sejo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163854431037-co0ovebf2mqeqs80j88o86mjvalio6k8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sejo",
+            "certificate_hash": "a57c5a257ce0367eadb50b70f9755140752ee890"
+          }
+        },
+        {
+          "client_id": "163854431037-0vfqs1861c0cg3be432v6krk0d92csfv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpo3LjI7UTOQPQl0ObidPbH3QSuQhHLbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163854431037-0vfqs1861c0cg3be432v6krk0d92csfv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

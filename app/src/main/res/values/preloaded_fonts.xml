@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/inknut_antiqua</item>
+        <item>@font/inknut_antiqua_light</item>
+        <item>@font/inknut_antiqua_medium</item>
+        <item>@font/inknut_antiqua_semibold</item>
+    </array>
+</resources>
